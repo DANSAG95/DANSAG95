@@ -1,21 +1,12 @@
-<div align="center">
-
-# Data Analytics Portfolio
-
-### SQL • Power BI • Data Analysis • Business Intelligence
-
-</div>
-
-<br>
+## Data Analytics Portfolio
 
 <table border="0" width="100%">
   <tr>
 
-
 <!-- PROJECT 1 -->
 <td width="50%" align="center" valign="top">
 
-  <h3>Sales Analytics</h3>
+  <h3> Sales Analytics</h3>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
     <img 
@@ -26,11 +17,11 @@
   </a>
 
   <p>
-    Sales performance and profitability analysis using SQL and Power BI.
+    Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
-    View Project
+     <strong>View Project</strong>
   </a>
 
 </td>
@@ -38,7 +29,7 @@
 <!-- PROJECT 2 -->
 <td width="50%" align="center" valign="top">
 
-  <h3>Hotel Bookings Analysis</h3>
+  <h3> Hotel Bookings Analysis</h3>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
     <img 
@@ -49,26 +40,18 @@
   </a>
 
   <p>
-    Hotel booking behaviour, cancellations and pricing analysis using SQL and Power BI.
+    Hotel booking and cancellation analysis using SQL and Power BI.
+    using SQL and Power BI.
   </p>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
-    View Project
+     <strong>View Project</strong>
   </a>
 
 </td>
 
-
   </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-### More projects coming soon
-
-</div>
 
 
 
