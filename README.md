@@ -1,9 +1,6 @@
-<div align="center">
-  
-## **Data Analytics Portfolio**
-SQL • Power BI • Data Analysis • Business Intelligence
+< align="center">
 
-</div>
+## Data Analytics Portfolio
 
 <table border="0" width="100%">
   <tr>
@@ -53,6 +50,10 @@ SQL • Power BI • Data Analysis • Business Intelligence
      <strong>View Project</strong>
   </a>
 
+</td>
+
+  </tr>
+</table>
 </td>
 
   </tr>
