@@ -41,7 +41,7 @@
 
   <p>
     Hotel booking and cancellation analysis using SQL and Power BI.
-    using <strong>SQL</strong> and <strong>Power BI</strong>.
+    using SQL and Power BI.
   </p>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
