@@ -1,5 +1,3 @@
-< align="center">
-
 ## Data Analytics Portfolio
 
 <table border="0" width="100%">
