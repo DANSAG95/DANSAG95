@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 Mis Proyectos Destacados
 
-<!--
-**DANSAG95/DANSAG95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Tarjeta de Proyecto 1: Sales Analytics -->
+  <a href="https://github.com/DANSAG95/sales-analytics">
+    <img src="https://githubusercontent.com" alt="Sales Analytics Dashboard" width="48%" />
+  </a>
+  
+  <!-- Tarjeta de Proyecto 2: Hotel Bookings Analysis -->
+  <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
+    <img src="https://githubusercontent.com" alt="Hotel Bookings Analysis Dashboard" width="48%" />
+  </a>
+</p>
