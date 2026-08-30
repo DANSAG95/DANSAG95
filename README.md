@@ -1,15 +1,8 @@
-## Proyectos Destacados
+## Featured Projects
 
+sales-analyticssales-analytics
 
-### 📊 [Sales Analytics Dashboard](https://github.com)
-Análisis de rendimiento de ventas y rentabilidad comercial usando SQL y Power BI.
-
-[![Sales Analytics](https://github.com)](https://github.com)
-
----
-
-### 🏨 [Hotel Bookings Analysis](https://github.com)
-Análisis de reservas, cancelaciones y comportamiento de tarifas (ADR) con SQL y Power BI.
+Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
 
 <p align="left">
   <!-- Tarjeta de Proyecto: Hotel Bookings Analysis -->
