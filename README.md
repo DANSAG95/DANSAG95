@@ -1,4 +1,4 @@
-## 📊 Data Analytics Portfolio
+## Data Analytics Portfolio
 
 <table border="0" width="100%">
   <tr>
@@ -6,7 +6,7 @@
 <!-- PROJECT 1 -->
 <td width="50%" align="center" valign="top">
 
-  <h3>📈 Sales Analytics</h3>
+  <h3> Sales Analytics</h3>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
     <img 
@@ -30,7 +30,7 @@
 <!-- PROJECT 2 -->
 <td width="50%" align="center" valign="top">
 
-  <h3>🏨 Hotel Bookings Analysis</h3>
+  <h3> Hotel Bookings Analysis</h3>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
     <img 
