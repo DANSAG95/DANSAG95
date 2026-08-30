@@ -1,4 +1,4 @@
-## 🚀 Mis Proyectos Destacados
+## Proyectos Destacados
 
 <p align="center">
   <!-- Tarjeta de Proyecto 1: Sales Analytics -->
