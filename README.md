@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Tarjeta de Proyecto 1: Sales Analytics -->
-  <a href="https://github.com/DANSAG95/sales-analytics" target="_blank">
+  <a href="![Sales Overview Dashboard](./Images/sales_overview.png)="_blank">
     <img src="https://github.com" alt="Sales Analytics Dashboard" width="48%" />
   </a>
   
