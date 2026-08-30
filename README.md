@@ -1,7 +1,11 @@
 <div align="center">
 
-Data Analytics Portfolio
+## Data Analytics Portfolio
 SQL • Power BI • Data Analysis • Business Intelligence
+
+</div>
+
+<br>
 
 <table border="0" width="100%">
   <tr>
