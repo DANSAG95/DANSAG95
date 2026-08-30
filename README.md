@@ -1,4 +1,7 @@
-## Data Analytics Portfolio
+<div align="center">
+
+Data Analytics Portfolio
+SQL • Power BI • Data Analysis • Business Intelligence
 
 <table border="0" width="100%">
   <tr>
