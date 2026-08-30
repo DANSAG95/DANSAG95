@@ -22,7 +22,7 @@
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
-    🔗 <strong>View Project</strong>
+     <strong>View Project</strong>
   </a>
 
 </td>
@@ -46,7 +46,7 @@
   </p>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
-    🔗 <strong>View Project</strong>
+     <strong>View Project</strong>
   </a>
 
 </td>
