@@ -17,8 +17,7 @@
   </a>
 
   <p>
-    Sales performance and profitability analysis using
-    <strong>SQL</strong> and <strong>Power BI</strong>.
+    Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
@@ -41,7 +40,7 @@
   </a>
 
   <p>
-    Hotel booking behaviour, cancellations and pricing analysis
+    Hotel booking and cancellation analysis using SQL and Power BI.
     using <strong>SQL</strong> and <strong>Power BI</strong>.
   </p>
 
