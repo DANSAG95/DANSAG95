@@ -3,7 +3,6 @@
 <table border="0" width="100%">
   <tr>
 
-```
 <!-- PROJECT 1 -->
 <td width="50%" align="center" valign="top">
 
@@ -51,7 +50,6 @@
   </a>
 
 </td>
-```
 
   </tr>
 </table>
