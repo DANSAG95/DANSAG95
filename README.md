@@ -13,7 +13,7 @@
 
 
 <!-- PROJECT 1 -->
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
   <h3>Sales Analytics</h3>
 
@@ -36,7 +36,7 @@
 </td>
 
 <!-- PROJECT 2 -->
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
   <h3>Hotel Bookings Analysis</h3>
 
@@ -58,14 +58,8 @@
 
 </td>
 
-
-  </tr>
-
-  <tr>
-
-
 <!-- PROJECT 3 -->
-<td width="50%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
 
   <h3>Financial Performance Analysis</h3>
 
@@ -87,10 +81,6 @@
 
 </td>
 
-<!-- PROJECT 4 -->
-<td width="50%" align="center" valign="top">
-</td>
-
 
   </tr>
 </table>
@@ -103,10 +93,6 @@
 
 </div>
 
-</td>
-
-  </tr>
-</table>
 
 
 
