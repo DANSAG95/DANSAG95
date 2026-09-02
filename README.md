@@ -61,7 +61,7 @@
 <!-- PROJECT 3 -->
 <td width="33.33%" align="center" valign="top">
 
-  <h3>Financial Performance Analysis</h3>
+  <h3>Financial Analysis</h3>
 
   <a href="https://github.com/DANSAG95/tko-financial-analysis">
     <img 
