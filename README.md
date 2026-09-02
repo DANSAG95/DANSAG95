@@ -1,12 +1,21 @@
-## Data Analytics Portfolio
+<div align="center">
+
+# Data Analytics Portfolio
+
+### SQL • Power BI • Data Analysis • Business Intelligence
+
+</div>
+
+<br>
 
 <table border="0" width="100%">
   <tr>
 
+
 <!-- PROJECT 1 -->
 <td width="50%" align="center" valign="top">
 
-  <h3> Sales Analytics</h3>
+  <h3>Sales Analytics</h3>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
     <img 
@@ -17,11 +26,11 @@
   </a>
 
   <p>
-    Sales analysis using SQL and Power BI to identify trends, top-performing products, and revenue drivers.
+    Sales performance and profitability analysis using SQL and Power BI.
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
-     <strong>View Project</strong>
+    View Project
   </a>
 
 </td>
@@ -29,7 +38,7 @@
 <!-- PROJECT 2 -->
 <td width="50%" align="center" valign="top">
 
-  <h3> Hotel Bookings Analysis</h3>
+  <h3>Hotel Bookings Analysis</h3>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
     <img 
@@ -40,18 +49,60 @@
   </a>
 
   <p>
-    Hotel booking and cancellation analysis using SQL and Power BI.
-    using SQL and Power BI.
+    Hotel booking behaviour, cancellations and pricing analysis using SQL and Power BI.
   </p>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
-     <strong>View Project</strong>
+    View Project
   </a>
 
 </td>
 
+
+  </tr>
+
+  <tr>
+
+
+<!-- PROJECT 3 -->
+<td width="50%" align="center" valign="top">
+
+  <h3>Financial Performance Analysis</h3>
+
+  <a href="https://github.com/DANSAG95/tko-financial-analysis">
+    <img 
+      src="https://github.com/user-attachments/assets/548e5561-d4ab-46cb-93bd-5493626e152b"
+      alt="Financial Performance Analysis Dashboard"
+      width="100%"
+    />
+  </a>
+
+  <p>
+    Financial performance analysis of TKO, UFC and WWE using SQL and Power BI.
+  </p>
+
+  <a href="https://github.com/DANSAG95/tko-financial-analysis">
+    View Project
+  </a>
+
+</td>
+
+<!-- PROJECT 4 -->
+<td width="50%" align="center" valign="top">
+</td>
+
+
   </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+### More projects coming soon
+
+</div>
+
 </td>
 
   </tr>
