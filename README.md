@@ -85,14 +85,6 @@
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### More projects coming soon
-
-</div>
-
 
 
 
