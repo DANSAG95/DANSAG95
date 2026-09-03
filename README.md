@@ -26,7 +26,7 @@
   </a>
 
   <p>
-    Sales performance and profitability analysis of an electronic retailer.
+    Sales performance and profitability analysis of an electronics retailer.
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
