@@ -49,7 +49,7 @@
   </a>
 
   <p>
-    Hotel booking behaviour, cancellations and pricing analysis using SQL and Power BI.
+    Hotel booking behaviour, cancellations and pricing analysis.
   </p>
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
