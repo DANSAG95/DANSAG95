@@ -26,7 +26,7 @@
   </a>
 
   <p>
-    Sales performance and profitability analysis using SQL and Power BI.
+    Sales performance and profitability analysis of an electronic retailer.
   </p>
 
   <a href="https://github.com/DANSAG95/sales-analytics">
@@ -72,7 +72,7 @@
   </a>
 
   <p>
-    Financial performance analysis of TKO, UFC and WWE using SQL and Power BI.
+    Financial performance analysis of TKO Holdings, UFC and WWE.
   </p>
 
   <a href="https://github.com/DANSAG95/tko-financial-analysis">
