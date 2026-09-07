@@ -42,7 +42,8 @@
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
     <img 
-      src="https://github.com/user-attachments/assets/940de5fd-9813-483b-99ea-a8426ed2bd9f"
+      src="https://github.com/user-attachments/assets/dab1cc48-e112-4ce8-b906-2ee810f9df5f<img width="4100" height="2350" alt="financial-overview" src="https://github.com/user-attachments/assets/d94c22bd-f742-4e5e-8701-7588e77ad477" />
+"
       alt="Hotel Bookings Analysis Dashboard"
       width="100%"
     />
@@ -65,7 +66,7 @@
 
   <a href="https://github.com/DANSAG95/tko-financial-analysis">
     <img 
-      src="https://github.com/user-attachments/assets/548e5561-d4ab-46cb-93bd-5493626e152b"
+      src="https://github.com/user-attachments/assets/a464bf6c-7c2d-41f0-ad4f-033005236576"
       alt="Financial Performance Analysis Dashboard"
       width="100%"
     />
@@ -84,7 +85,5 @@
 
   </tr>
 </table>
-
-
 
 
