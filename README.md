@@ -42,8 +42,7 @@
 
   <a href="https://github.com/DANSAG95/hotel-bookings-analysis">
     <img 
-      src="https://github.com/user-attachments/assets/dab1cc48-e112-4ce8-b906-2ee810f9df5f<img width="4100" height="2350" alt="financial-overview" src="https://github.com/user-attachments/assets/d94c22bd-f742-4e5e-8701-7588e77ad477" />
-"
+      src="https://github.com/user-attachments/assets/dab1cc48-e112-4ce8-b906-2ee810f9df5f"
       alt="Hotel Bookings Analysis Dashboard"
       width="100%"
     />
