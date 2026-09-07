@@ -19,7 +19,7 @@
 
   <a href="https://github.com/DANSAG95/sales-analytics">
     <img 
-      src="https://github.com/user-attachments/assets/06089da2-04e1-4e09-8380-861356d37b48"
+      src="https://github.com/user-attachments/assets/ff4b9fe6-7aea-499f-a15a-47a9e71fb31c"
       alt="Sales Analytics Dashboard"
       width="100%"
     />
